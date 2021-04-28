@@ -9,7 +9,7 @@ pip2 install bs4
 
 rm -rf elite
 
-git clone https://github.com/DEV588-V1/mytic
+git clone https://github.com/DEV588-V1/mytic.py
 
 cd mytic
 

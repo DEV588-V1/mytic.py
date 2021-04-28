@@ -1,0 +1,2 @@
+# mytic.py
+SCRIP BY DAFFA ARDIANSYAH XD
